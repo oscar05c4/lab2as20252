@@ -67,6 +67,7 @@
                 </executions>
             </plugin>
 		</plugins>
+        <finalName>lab2as20252</finalName>
 	</build>
 
 </project>
